@@ -1,19 +1,9 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+This a blog about language -- mostly about an English speaker learning Spanish. It is written by [@samhandler](https://twitter.com/samhandler).
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+The site is built on [Jekyll](http://jekyllrb.com) and based on [John Otander](http://johnotander.com)'s [pixyll](http://pixyll.com/about/) theme.

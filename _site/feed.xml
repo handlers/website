@@ -7,6 +7,63 @@
     <atom:link href="http://ponsal.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>New Year&#39;s Terms and Conditions</title>
+        <description>&lt;p&gt;&lt;em&gt;Disclaimer: I translate and reproduce Eduardo Salles’ work in this post. In a recent &lt;a href=&quot;http://cultura.elpais.com/cultura/2014/11/28/actualidad/1417138258_495568.html&quot;&gt;article&lt;/a&gt;, he said that it’s cool: “Que sus imágenes estén por la red, a veces sin crédito, no le molesta. Para él internet es ‘agarrar, hacer y repetir’.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are not acquainted with the work of the Mexican artist Eduardo Salles, you should be. He draws unbelievably clever cartoons on his site &lt;a href=&quot;http://cinismoilustrado.com/&quot;&gt;Cinismo Ilustrado&lt;/a&gt;, which, owing to their relatively small amount of text, can be feasibly enjoyed (rather than slogged through) by language learners. Here, for example, is a simple one in which brands and branded concepts are rendered as wrestling masks:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/heroes.jpg&quot; alt=&quot;sundays&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Salles just put out a list of terms and conditions for the new year, which I really liked:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/terms-and-conditions.jpg&quot; alt=&quot;terms and conditions&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Because it’s so text-heavy, I thought I’d take a stab at a translation (uncertainty is marked with [?].&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;The following is an (attempted) translation of Eduardo Salles’ &lt;a href=&quot;http://cinismoilustrado.com/image/106620128073&quot;&gt;work&lt;/a&gt;&lt;/em&gt;:&lt;/p&gt;
+
+&lt;h4 id=&quot;new-year&quot;&gt;New Year&lt;/h4&gt;
+
+&lt;h5 id=&quot;terms-and-conditions&quot;&gt;Terms and Conditions&lt;/h5&gt;
+
+&lt;p&gt;This year’s terms and conditions have changed. Please read the new terms and conditions in order to begin the year.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a. The New Year does not promise to actualize your intentions, goals, objectives, desires, fantasies, or any other imagined projections. The achievement thereof is your sole responsibility, and is subject to changing circumstances during the year [?].&lt;br /&gt;
+&lt;br /&gt;
+b. The New Year does not promise to fulfill your expectations, whatever they may be. Neither is it subject to fulfill economic, political, social, technological, or cultural predictions.&lt;br /&gt;
+&lt;br /&gt;
+c. The New Year is not responsible for losses, sicknesses, bankruptcies, layoffs, weight and size gains, romantic disappointments, existential crises, academic problems, or whatever other misfortune one might suffer during its passage.&lt;br /&gt;
+&lt;br /&gt;
+d. The New Year is not obligated to be better than The Old Year. All types of catastrophe – natural (hurricanes, earthquakes, fires, floods) and anthropogenic (armed conflicts, currency devaluations, social instability, and Michael Bay movies) – can happen at any moment.&lt;br /&gt;
+&lt;br /&gt;
+e. The conditions of the New Year are subject to change without prior warning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;form class=&quot;new-year-terms&quot;&gt;
+  &lt;div class=&quot;right&quot;&gt;
+    &lt;input type=&quot;checkbox&quot; name=&quot;terms&quot; /&gt;
+    &lt;label name=&quot;terms&quot;&gt;
+      I have read and agreed to the terms and conditions of the New Year.
+    &lt;/label&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;right&quot;&gt;
+    &lt;a class=&quot;button&quot;&gt; Continue &lt;/a&gt;
+    &lt;a class=&quot;button&quot;&gt; Screw this &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;clearfix&quot;&gt;
+  &lt;/div&gt;
+&lt;/form&gt;
+</description>
+        <pubDate>Wed, 31 Dec 2014 03:30:00 -0500</pubDate>
+        <link>http://ponsal.com/translation/2014/12/31/el-ano-nuevo/</link>
+        <guid isPermaLink="true">http://ponsal.com/translation/2014/12/31/el-ano-nuevo/</guid>
+      </item>
+    
+      <item>
         <title>BBC Mundo Noticias — Resumen De 2014</title>
         <description>&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; src=&quot;https://emp.bbc.co.uk/emp/embed/smpEmbed.html?playlist=http%3A%2F%2Fwww.bbc.co.uk%2Fmundo%2Fmeta%2Fdps%2F2014%2F12%2Femp%2F141218_video_2014_resumen_noticias2_ms.emp.xml&amp;amp;title=Cu%C3%A1les%20fueron%20las%20noticias%20m%C3%A1s%20impactantes%20de%202014&amp;amp;product=news&amp;amp;lang=es&quot;&gt;&lt;/iframe&gt;
 </description>

@@ -17,7 +17,7 @@ Salles just put out a list of terms and conditions for the new year, which I rea
 
 ![terms and conditions](/images/terms-and-conditions.jpg)
 
-Because it's so text-heavy, I thought I'd take a stab at a translation (uncertainty is marked with [?].
+Because it's so text-heavy, I thought I'd take a stab at a translation (uncertainty is marked with [?]).
 
 ---
 

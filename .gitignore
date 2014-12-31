@@ -4,4 +4,4 @@
 # Ignore the config file that's used for gh-pages.
 _config.gh-pages.yml
 ssl-stuff
-
+_drafts

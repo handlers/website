@@ -51,8 +51,8 @@ e. The conditions of the New Year are subject to change without prior warning.&l
   &lt;/div&gt;
   &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
   &lt;div class=&quot;right&quot;&gt;
-    &lt;a class=&quot;button&quot;&gt; Continue &lt;/a&gt;
-    &lt;a class=&quot;button&quot;&gt; Screw this &lt;/a&gt;
+    &lt;a class=&quot;button&quot; id=&quot;continue&quot;&gt; Continue &lt;/a&gt;
+    &lt;a class=&quot;button&quot; id=&quot;mierda&quot;&gt; Screw this &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;clearfix&quot;&gt;
   &lt;/div&gt;

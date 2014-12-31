@@ -5,6 +5,7 @@ date:       2014-12-31 08:30:00
 summary:    Translation of a Cinismo Ilustrado Work
 categories: translation
 custom_css: el-ano-nuevo
+custom_js: el-ano-nuevo
 ---
 
 _Disclaimer: I translate and reproduce Eduardo Salles' work in this post. In a recent [article](http://cultura.elpais.com/cultura/2014/11/28/actualidad/1417138258_495568.html), he said that it's cool: "Que sus imágenes estén por la red, a veces sin crédito, no le molesta. Para él internet es 'agarrar, hacer y repetir'."_
@@ -48,8 +49,8 @@ e. The conditions of the New Year are subject to change without prior warning.
   </div>
   <div class="clearfix"></div>
   <div class="right">
-    <a class="button"> Continue </a>
-    <a class="button"> Screw this </a>
+    <a class="button" id="continue"> Continue </a>
+    <a class="button" id="mierda"> Screw this </a>
   </div>
   <div class="clearfix">
   </div>

@@ -1,0 +1,16 @@
+.lyrics {
+  padding: 1.33em;
+  font-style: italic;
+  border-left: 5px solid #7a7a7a;
+  width: 41%;
+  clear: none;
+  float: left;
+  .unit {
+    clear: both;
+    display: block;
+  }
+  .p {
+    margin-bottom: 1rem;
+    clear: both;
+  }
+}

@@ -1,0 +1,3 @@
+digraph G {
+  "gmail web server" -> "your web browser" [color=blue]
+}

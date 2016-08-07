@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pon sal</title>
-    <description>una pesadilla de lengua</description>
-    <link>http://ponsal.com/</link>
-    <atom:link href="http://ponsal.com/feed.xml" rel="self" type="application/rss+xml" />
+    <title>I Can Explain</title>
+    <description></description>
+    <link>http://samlh.com/</link>
+    <atom:link href="http://samlh.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A Capital Bikeshare Gem</title>
+        <description>&lt;p&gt;It feels strange that it took this long to write a gem, but I just &lt;a href=&quot;https://github.com/handlers/capital-bikeshare-ruby/releases&quot;&gt;released one&lt;/a&gt;! It’s called &lt;a href=&quot;https://github.com/handlers/capital-bikeshare-ruby&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;capital-bikeshare&lt;/code&gt;&lt;/a&gt;, and it’s a wrapper that makes dealing with Capital Bikeshare (DC’s bikeshare system) data easier.&lt;/p&gt;
+
+&lt;p&gt;The gem grabs station data (published in XML) and structures it into Ruby objects so you can do:&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;capital-bikeshare&#39;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;client&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;CapitalBikeshare&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;fetch&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# gets station data&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;stations&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;first&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#&amp;lt;CapitalBikeshare::Station:0x007fd7ae8728b8 @id=1...&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Hopefully this helps people develop more Capital Bikeshare-related applications.*&lt;/p&gt;
+
+&lt;p&gt;I just slapped a &lt;code class=&quot;highlighter-rouge&quot;&gt;v1.0&lt;/code&gt; tag on it but I assure you that there many bugs; if you find any, please open an issue.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;* If anyone’s taking requests, I’d really like an Android app with two screens:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;trying to find a bike&lt;/li&gt;
+  &lt;li&gt;trying to park a bike&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Spotcycle crashes for me like all the time.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Aug 2016 05:00:00 -0400</pubDate>
+        <link>http://samlh.com/computers/ruby/bikes/2016/08/07/capital-bikeshare-ruby/</link>
+        <guid isPermaLink="true">http://samlh.com/computers/ruby/bikes/2016/08/07/capital-bikeshare-ruby/</guid>
+      </item>
     
       <item>
         <title>Stop Abusing &quot;Right?.&quot;</title>
@@ -16,16 +50,16 @@
 
 &lt;p&gt;This construction aggravates me. The inflection on “right” suggests that there could be disagreement over the topic, but the speaker’s quick progress to the next sentence denies the opportunity to respond. It opens the door to conversation and then slams it shut. Moreover, the speaker’s gung-ho continuation to the next sentence implies the listener’s agreement, even though they are allowed no time to think the question over. In the example above, the listener is basically coerced into accepting a historic interpretation as a precondition to the second sentence’s question. I call shenanigans. Perhaps we should only ask questions if we are prepared to listen to peoples’ responses.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Feb 2015 02:00:00 -0700</pubDate>
-        <link>http://ponsal.com/english/2015/02/01/right/</link>
-        <guid isPermaLink="true">http://ponsal.com/english/2015/02/01/right/</guid>
+        <pubDate>Sun, 01 Feb 2015 04:00:00 -0500</pubDate>
+        <link>http://samlh.com/english/2015/02/01/right/</link>
+        <guid isPermaLink="true">http://samlh.com/english/2015/02/01/right/</guid>
       </item>
     
       <item>
         <title>Un Hombre Normal</title>
         <description>&lt;p&gt;One of the nice things about listening to songs in different languages is that that nothing seems immediately hackneyed (because it’s hard to understand what the hell is going on). And if you go through the trouble to actually decode the lyrics, there’s a good chance that cheeseball pop’s cliches won’t be as off-putting as they are in your native language. They’ll be hard-won and unfamiliar (as opposed to the easily-understood and familiar cliches of a native tongue).&lt;/p&gt;
 
-&lt;p&gt;For this reason — and probably a few others — I am able to unabashedly enjoy songs like Espinoza Paz’ “&lt;a href=&quot;http://grooveshark.com/#!/s/Un+Hombre+Normal/3XV2ft?src=5&quot;&gt;Un Hombre Normal&lt;/a&gt;”, in which Mr. Paz explains to his former significant other that he’s going to pretend to be a functioning member of society after their breakup. Here is a highly unpoetic translation:&lt;/p&gt;
+&lt;p&gt;For this reason — and probably a few others — I am able to unabashedly enjoy songs like Espinoza Paz’ “&lt;a href=&quot;https://www.youtube.com/watch?v=2d05L2v8kBg&quot;&gt;Un Hombre Normal&lt;/a&gt;”, in which Mr. Paz explains to his former significant other that he’s going to pretend to be a functioning member of society after their breakup. Here is a highly unpoetic translation:&lt;/p&gt;
 
 &lt;div class=&quot;lyrics english&quot;&gt;
   &lt;div class=&quot;section&quot;&gt;
@@ -165,9 +199,9 @@
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 25 Jan 2015 02:00:00 -0700</pubDate>
-        <link>http://ponsal.com/translation/cheeseball%20pop/2015/01/25/un-hombre-normal/</link>
-        <guid isPermaLink="true">http://ponsal.com/translation/cheeseball%20pop/2015/01/25/un-hombre-normal/</guid>
+        <pubDate>Sun, 25 Jan 2015 04:00:00 -0500</pubDate>
+        <link>http://samlh.com/translation/cheeseball%20pop/2015/01/25/un-hombre-normal/</link>
+        <guid isPermaLink="true">http://samlh.com/translation/cheeseball%20pop/2015/01/25/un-hombre-normal/</guid>
       </item>
     
       <item>
@@ -182,9 +216,9 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/floating_dog.gif&quot; alt=&quot;doge&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 24 Jan 2015 02:00:00 -0700</pubDate>
-        <link>http://ponsal.com/vocabulary/2015/01/24/colear/</link>
-        <guid isPermaLink="true">http://ponsal.com/vocabulary/2015/01/24/colear/</guid>
+        <pubDate>Sat, 24 Jan 2015 04:00:00 -0500</pubDate>
+        <link>http://samlh.com/vocabulary/2015/01/24/colear/</link>
+        <guid isPermaLink="true">http://samlh.com/vocabulary/2015/01/24/colear/</guid>
       </item>
     
       <item>
@@ -225,9 +259,9 @@ These works are the efflorescence of his genius.&lt;/strong&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;https://i.imgur.com/Kw3Yd0H.jpg&quot; alt=&quot;I have no idea what I&#39;m doing&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Jan 2015 03:30:00 -0700</pubDate>
-        <link>http://ponsal.com/vocabulary/2015/01/10/aflorar/</link>
-        <guid isPermaLink="true">http://ponsal.com/vocabulary/2015/01/10/aflorar/</guid>
+        <pubDate>Sat, 10 Jan 2015 05:30:00 -0500</pubDate>
+        <link>http://samlh.com/vocabulary/2015/01/10/aflorar/</link>
+        <guid isPermaLink="true">http://samlh.com/vocabulary/2015/01/10/aflorar/</guid>
       </item>
     
       <item>
@@ -268,9 +302,9 @@ These works are the efflorescence of his genius.&lt;/strong&gt;&lt;br /&gt;
 
 &lt;p&gt;In this novice’s judgement, inferances via &lt;em&gt;traslucir&lt;/em&gt; seem more scientific than inferences via &lt;em&gt;adivinar&lt;/em&gt; (&lt;em&gt;traslucir&lt;/em&gt; has &lt;em&gt;antecedents&lt;/em&gt;, for Pete’s sake!). Perhaps @BorgesJorgeL used these two terms as complements. The mystical &lt;em&gt;adivinar&lt;/em&gt; and more logical &lt;em&gt;traslucir&lt;/em&gt; combine to get at the weird, structured haziness of language comprehension.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 02 Jan 2015 06:46:00 -0700</pubDate>
-        <link>http://ponsal.com/borges/quotations/translation/2015/01/02/magia/</link>
-        <guid isPermaLink="true">http://ponsal.com/borges/quotations/translation/2015/01/02/magia/</guid>
+        <pubDate>Fri, 02 Jan 2015 08:46:00 -0500</pubDate>
+        <link>http://samlh.com/borges/quotations/translation/2015/01/02/magia/</link>
+        <guid isPermaLink="true">http://samlh.com/borges/quotations/translation/2015/01/02/magia/</guid>
       </item>
     
       <item>
@@ -325,18 +359,18 @@ e. The conditions of the New Year are subject to change without prior warning.&l
   &lt;/div&gt;
 &lt;/form&gt;
 </description>
-        <pubDate>Wed, 31 Dec 2014 01:30:00 -0700</pubDate>
-        <link>http://ponsal.com/translation/2014/12/31/el-ano-nuevo/</link>
-        <guid isPermaLink="true">http://ponsal.com/translation/2014/12/31/el-ano-nuevo/</guid>
+        <pubDate>Wed, 31 Dec 2014 03:30:00 -0500</pubDate>
+        <link>http://samlh.com/translation/2014/12/31/el-ano-nuevo/</link>
+        <guid isPermaLink="true">http://samlh.com/translation/2014/12/31/el-ano-nuevo/</guid>
       </item>
     
       <item>
         <title>BBC Mundo Noticias — Resumen De 2014</title>
         <description>&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; src=&quot;https://emp.bbc.co.uk/emp/embed/smpEmbed.html?playlist=http%3A%2F%2Fwww.bbc.co.uk%2Fmundo%2Fmeta%2Fdps%2F2014%2F12%2Femp%2F141218_video_2014_resumen_noticias2_ms.emp.xml&amp;amp;title=Cu%C3%A1les%20fueron%20las%20noticias%20m%C3%A1s%20impactantes%20de%202014&amp;amp;product=news&amp;amp;lang=es&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Mon, 29 Dec 2014 01:41:00 -0700</pubDate>
-        <link>http://ponsal.com/video/news/2014/12/29/noticias-del-a%C3%B1o/</link>
-        <guid isPermaLink="true">http://ponsal.com/video/news/2014/12/29/noticias-del-a%C3%B1o/</guid>
+        <pubDate>Mon, 29 Dec 2014 03:41:00 -0500</pubDate>
+        <link>http://samlh.com/video/news/2014/12/29/noticias-del-a%C3%B1o/</link>
+        <guid isPermaLink="true">http://samlh.com/video/news/2014/12/29/noticias-del-a%C3%B1o/</guid>
       </item>
     
       <item>
@@ -370,9 +404,9 @@ e. The conditions of the New Year are subject to change without prior warning.&l
   &lt;li&gt;This this &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_calques&quot;&gt;list of calques&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sun, 28 Dec 2014 02:00:00 -0700</pubDate>
-        <link>http://ponsal.com/vocabulary/2014/12/28/amigo-del-alma/</link>
-        <guid isPermaLink="true">http://ponsal.com/vocabulary/2014/12/28/amigo-del-alma/</guid>
+        <pubDate>Sun, 28 Dec 2014 04:00:00 -0500</pubDate>
+        <link>http://samlh.com/vocabulary/2014/12/28/amigo-del-alma/</link>
+        <guid isPermaLink="true">http://samlh.com/vocabulary/2014/12/28/amigo-del-alma/</guid>
       </item>
     
       <item>
@@ -392,29 +426,9 @@ e. The conditions of the New Year are subject to change without prior warning.&l
 &lt;iframe width=&quot;100%&quot; height=&quot;350&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;https://www.openstreetmap.org/export/embed.html?bbox=-89.69238281249999%2C12.586732432464062%2C-82.2216796875%2C19.16592425362801&amp;amp;layer=cyclemap&amp;amp;marker=15.897942401022103%2C-85.95703125&quot; style=&quot;border: 1px solid black&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Thu, 25 Dec 2014 05:53:00 -0700</pubDate>
-        <link>http://ponsal.com/vocabulary/2014/12/25/honduras/</link>
-        <guid isPermaLink="true">http://ponsal.com/vocabulary/2014/12/25/honduras/</guid>
-      </item>
-    
-      <item>
-        <title>Sobre Pon Sal</title>
-        <description>&lt;p&gt;This blog’s title comes from a little song which taught me various irregular forms of the second person imperative in Spanish. It goes something like this (sung to the tune of jingle bells):&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;di haz ve&lt;br /&gt;
-di haz ve&lt;br /&gt;
-pon sal se ten ven&lt;br /&gt;
-di haz ve&lt;br /&gt;
-di haz ve&lt;br /&gt;
-pon sal se ten ven&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It seemed pretty appropriate with it being Christmas Eve day and all, y eso es.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Dec 2014 05:53:00 -0700</pubDate>
-        <link>http://ponsal.com/meta/2014/12/24/sobre-ponsal/</link>
-        <guid isPermaLink="true">http://ponsal.com/meta/2014/12/24/sobre-ponsal/</guid>
+        <pubDate>Thu, 25 Dec 2014 07:53:00 -0500</pubDate>
+        <link>http://samlh.com/vocabulary/2014/12/25/honduras/</link>
+        <guid isPermaLink="true">http://samlh.com/vocabulary/2014/12/25/honduras/</guid>
       </item>
     
   </channel>

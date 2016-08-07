@@ -1,0 +1,5 @@
+digraph G {
+  "your computer" -> "dns server"
+  "dns server" -> "gmail server"
+}
+

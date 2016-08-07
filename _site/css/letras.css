@@ -1,13 +1,1 @@
-.lyrics {
-  padding: 1.33em;
-  font-style: italic;
-  border-left: 5px solid #7a7a7a;
-  width: 41%;
-  clear: none;
-  float: left; }
-  .lyrics .unit {
-    clear: both;
-    display: block; }
-  .lyrics .p {
-    margin-bottom: 1rem;
-    clear: both; }
+.lyrics{padding:1.33em;font-style:italic;border-left:5px solid #7a7a7a;width:41%;clear:none;float:left}.lyrics .unit{clear:both;display:block}.lyrics .p{margin-bottom:1rem;clear:both}

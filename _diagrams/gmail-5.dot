@@ -1,0 +1,8 @@
+digraph G {
+  "your web browser" -> "gmail web server" [color=blue]
+  "gmail web server" -> "database server" [color=green]
+  "gmail web server" -> "ad server" [color=green]
+  "database server" -> "gmail web server" [color=green]
+  "ad server" -> "gmail web server" [color=green]
+  "gmail web server" -> "your web browser" [color=blue]
+}

@@ -1,0 +1,4 @@
+digraph G {
+  "gmail web server" -> "database server" [color=green]
+  "gmail web server" -> "ad server" [color=green]
+}

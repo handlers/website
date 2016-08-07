@@ -11,7 +11,7 @@ custom_css: letras
 
 One of the nice things about listening to songs in different languages is that that nothing seems immediately hackneyed (because it's hard to understand what the hell is going on). And if you go through the trouble to actually decode the lyrics, there's a good chance that cheeseball pop's cliches won't be as off-putting as they are in your native language. They'll be hard-won and unfamiliar (as opposed to the easily-understood and familiar cliches of a native tongue). 
 
-For this reason — and probably a few others — I am able to unabashedly enjoy songs like Espinoza Paz' "[Un Hombre Normal](http://grooveshark.com/#!/s/Un+Hombre+Normal/3XV2ft?src=5)", in which Mr. Paz explains to his former significant other that he's going to pretend to be a functioning member of society after their breakup. Here is a highly unpoetic translation:
+For this reason — and probably a few others — I am able to unabashedly enjoy songs like Espinoza Paz' "[Un Hombre Normal](https://www.youtube.com/watch?v=2d05L2v8kBg)", in which Mr. Paz explains to his former significant other that he's going to pretend to be a functioning member of society after their breakup. Here is a highly unpoetic translation:
 
 <div class="lyrics english">
   <div class="section">

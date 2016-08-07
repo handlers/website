@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>A Capital Bikeshare Gem &#8211; I Can Explain</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A Ruby wrapper for CaBi data">
+    <meta name="author" content="Sam Handler">
+    <meta name="keywords" content="computers, ruby, bikes">
+    <link rel="canonical" href="http://samlh.com/computers/ruby/bikes/2016/08/07/capital-bikeshare-ruby/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css" type="text/css">
+
+    <!-- Page-specific CSS -->
+    
+
+    <!-- Page-specific JS -->
+    
+
+    <!-- Fonts -->
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
+    
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="A Capital Bikeshare Gem">
+    <meta property="og:description" content="">
+    <meta property="og:url" content="http://samlh.com/computers/ruby/bikes/2016/08/07/capital-bikeshare-ruby/">
+    <meta property="og:site_name" content="I Can Explain">
+</head>
+
+<body class="">
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://samlh.com" class="site-title">
+        I Can Explain
+      </a>
+
+      <nav class="site-nav right">
+        <a href="/about/">About</a>
+
+        <a class="fa fa-rss" href="/feed.xml"></a>
+        <a class="fa fa-twitter" href="https://twitter.com/"></a>
+      </nav>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        <div class="post-header mb2">
+  <h1 class="py2">A Capital Bikeshare Gem</h1>
+  <span class="post-meta">Aug 7</span><br>
+  
+</div>
+
+<article class="post-content">
+  <p>It feels strange that it took this long to write a gem, but I just <a href="https://github.com/handlers/capital-bikeshare-ruby/releases">released one</a>! It’s called <a href="https://github.com/handlers/capital-bikeshare-ruby"><code class="highlighter-rouge">capital-bikeshare</code></a>, and it’s a wrapper that makes dealing with Capital Bikeshare (DC’s bikeshare system) data easier.</p>
+
+<p>The gem grabs station data (published in XML) and structures it into Ruby objects so you can do:</p>
+
+<div class="language-ruby highlighter-rouge"><pre class="highlight"><code><span class="o">&gt;</span> <span class="nb">require</span> <span class="s1">'capital-bikeshare'</span>
+<span class="o">&gt;</span> <span class="n">client</span> <span class="o">=</span> <span class="no">CapitalBikeshare</span><span class="o">::</span><span class="no">Client</span><span class="p">.</span><span class="nf">new</span>
+<span class="o">&gt;</span> <span class="n">client</span><span class="p">.</span><span class="nf">fetch</span> <span class="c1"># gets station data</span>
+<span class="o">&gt;</span> <span class="n">client</span><span class="p">.</span><span class="nf">stations</span><span class="p">.</span><span class="nf">first</span>
+<span class="o">=&gt;</span> <span class="c1">#&lt;CapitalBikeshare::Station:0x007fd7ae8728b8 @id=1...</span>
+</code></pre>
+</div>
+
+<p>Hopefully this helps people develop more Capital Bikeshare-related applications.*</p>
+
+<p>I just slapped a <code class="highlighter-rouge">v1.0</code> tag on it but I assure you that there many bugs; if you find any, please open an issue.</p>
+
+<hr />
+
+<p>* If anyone’s taking requests, I’d really like an Android app with two screens:</p>
+
+<ol>
+  <li>trying to find a bike</li>
+  <li>trying to park a bike</li>
+</ol>
+
+<p>Spotcycle crashes for me like all the time.</p>
+
+</article>
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+  <div class="p2 wrap">
+    <div class="measure mt1 center">
+      <small>
+        This site's built on <a href="http://jekyllrb.com/">Jekyll</a>. The theme is based on <a href="https://github.com/johnotander/pixyll">pixyll</a>.
+      </small>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
